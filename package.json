@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.2",
+    "ws": "^8.8.1"
+  },
+  "scripts": {
+    "start": "nodemon server.mjs"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "description": "a api example",
+  "main": "server.mjs",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
